@@ -1,6 +1,3 @@
-<p align="center">
-  <h1 align="center"><a href="https://food3xplorer.netlify.app/">Food Explorer - Rocketseat Explorer :rocket: </a></h1>
-</p>
 
 <p align="center">
   <img width="550" height="99" src="https://user-images.githubusercontent.com/106932234/204160165-1936c0db-539f-4a11-bf5e-1f3d3f789896.png">
@@ -57,7 +54,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:andreviapiana/Food-Explorer.git
+$ git clone https://github.com/Rennangmacarini/Food-Explorer.git
 ```
 ___
 
@@ -102,14 +99,6 @@ $ npm run dev
 ```
 ___
 
-Este BackEnd foi hospedado diretamente no Render.
-Já o Frontend foi hospedado diretamente no Netlify.
 
-___
-Obs.: Por estar hospedado em um serviço gratuito, o BackEnd "hiberna" após 15 minutos sem utilização.
-<br>
-Se você está tentando acessar o site e o BackEnd não responde, apenas aguarde, pois ele estará "inicializando" os serviços.
-<br>
-Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do Render.
 
-[O resultado FINAL pode ser visto aqui](https://food3xplorer.netlify.app/)
+
